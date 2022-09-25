@@ -29,6 +29,8 @@ portfolio.json — Contains offer ids and meta data about each offer (duration, 
 profile.json — Demographic data for each custmer
 transcript.json — Records for transactions, offers received, offers viewed, and offers completed
 
+All data files are located in "data files.zip".
+
 ## Summary of Results <a name="results"></a>
 
 The resulting model using Random Forest Classifier was able to correctly classify a customer 68.3% of the time. The best model was determined using cross validation score and grid search CV to determine the best parameters for this classifier.
