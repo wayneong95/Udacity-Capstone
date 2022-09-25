@@ -35,4 +35,4 @@ All data files are located in "data files.zip".
 
 The resulting model using Random Forest Classifier was able to correctly classify a customer 68.3% of the time. The best model was determined using cross validation score and grid search CV to determine the best parameters for this classifier.
 
-
+The main findings of the code can be found at the post available [here]([https://medium.com/@misc.wayne123/which-time-of-the-year-should-you-visit-seattle-ed0f1db9b280](https://medium.com/@misc.wayne123/starbucks-capstone-challenge-537605e26402)).
